@@ -1,4 +1,4 @@
-# Express Test: Step-by-Step Guide (Node.js to Running Code)
+# Express and Postman Basic: Step-by-Step Guide (Node.js to Running Code)
 
 This guide shows how to set up Node.js, install dependencies, run this project, and test the API.
 
